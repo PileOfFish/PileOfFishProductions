@@ -1,0 +1,155 @@
+fileFormatVersion: 1
+guid: e5c367bbd134fa14fb5653c5deb3d32b
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 1
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+    clips:
+      walk:
+        firstFrame: 1
+        lastFrame: 33
+        loop: 1
+        wrapMode: 2
+  nodeInfo:
+    RightToe:
+    - 100000
+    - 400000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+    CTRL_Root_Joint:
+    - 100004
+    - 400004
+    RightFoot:
+    - 100006
+    - 400006
+    RightAnkle:
+    - 100008
+    - 400008
+    RightKnee:
+    - 100010
+    - 400010
+    RightHip:
+    - 100012
+    - 400012
+    LeftToe:
+    - 100014
+    - 400014
+    LeftFoot:
+    - 100016
+    - 400016
+    LeftAnkle:
+    - 100018
+    - 400018
+    LeftKnee:
+    - 100020
+    - 400020
+    LeftHip:
+    - 100022
+    - 400022
+    Right_Wrist:
+    - 100024
+    - 400024
+    Right_Elbow:
+    - 100026
+    - 400026
+    Right_Shoulder:
+    - 100028
+    - 400028
+    Right_Clavicle:
+    - 100030
+    - 400030
+    Left_Wrist:
+    - 100032
+    - 400032
+    Left_Elbow:
+    - 100034
+    - 400034
+    Left_Shoulder:
+    - 100036
+    - 400036
+    Left_Clavicle:
+    - 100038
+    - 400038
+    HeadTip:
+    - 100040
+    - 400040
+    Chin:
+    - 100042
+    - 400042
+    Neck:
+    - 100044
+    - 400044
+    Spine3:
+    - 100046
+    - 400046
+    Spine2:
+    - 100048
+    - 400048
+    Spine1:
+    - 100050
+    - 400050
+    Root_Joint:
+    - 100052
+    - 400052
+    - 13700000
+    CTRL_Right_Clavicle:
+    - 100054
+    - 400054
+    Right_Claw_Knuckle:
+    - 100056
+    - 400056
+    Z_CTRL_Right_Clavicle_1:
+    - 100058
+    - 400058
+    Z_CTRL_Left_Clavicle_1:
+    - 100060
+    - 400060
+    Left_Claw_Tip_02:
+    - 100062
+    - 400062
+    CTRL_Left_Clavicle:
+    - 100064
+    - 400064
+    Left_Claw_Tip_01:
+    - 100066
+    - 400066
+    Right_Claw_Tip_02:
+    - 100068
+    - 400068
+    MonsterUV1:polySurface29:
+    - 100070
+    - 400070
+    Right_Claw_Tip_01:
+    - 100072
+    - 400072
+    Left_Claw_Knuckle:
+    - 100074
+    - 400074
+    Z_CTRL_Root_Joint_3:
+    - 100076
+    - 400076
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: MonsterUV1:polySurface29
+    7400000: Take 001 //// Walk_Animation
+    7400002: walk //// Walk_Animation

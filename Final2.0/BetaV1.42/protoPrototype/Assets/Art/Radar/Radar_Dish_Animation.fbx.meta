@@ -1,0 +1,49 @@
+fileFormatVersion: 1
+guid: ff38bd8f201bb1d47ab225c28d6426d9
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    radarDish:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    radarBase:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    Radar_Node:
+    - 100004
+    - 400004
+    //RootNode:
+    - 100006
+    - 400006
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: radarBase
+    4300002: radarDish
+    7400000: Take 001 //// Radar_Dish_Animation
+    7400002: idle //// Radar_Dish_Animation
+    7400004: spin //// Radar_Dish_Animation

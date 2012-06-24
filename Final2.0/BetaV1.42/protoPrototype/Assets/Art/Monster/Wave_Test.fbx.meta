@@ -1,0 +1,137 @@
+fileFormatVersion: 1
+guid: ddda6b7fcfdbad84da487b7cbffa68b0
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    Root_Joint:
+    - 100000
+    - 400000
+    - 13700000
+    joint3:
+    - 100002
+    - 400002
+    joint2:
+    - 100004
+    - 400004
+    joint5:
+    - 100006
+    - 400006
+    joint4:
+    - 100008
+    - 400008
+    joint7:
+    - 100010
+    - 400010
+    joint6:
+    - 100012
+    - 400012
+    joint9:
+    - 100014
+    - 400014
+    joint8:
+    - 100016
+    - 400016
+    Left_Shoulder:
+    - 100018
+    - 400018
+    Left_Clavicle:
+    - 100020
+    - 400020
+    Left_Wrist:
+    - 100022
+    - 400022
+    Left_Elbow:
+    - 100024
+    - 400024
+    Right_Shoulder:
+    - 100026
+    - 400026
+    Right_Clavicle:
+    - 100028
+    - 400028
+    Right_Wrist:
+    - 100030
+    - 400030
+    Right_Elbow:
+    - 100032
+    - 400032
+    Left_Hip:
+    - 100034
+    - 400034
+    Left_Ankle:
+    - 100036
+    - 400036
+    Left_Knee:
+    - 100038
+    - 400038
+    Left_Toe:
+    - 100040
+    - 400040
+    Left_Foot:
+    - 100042
+    - 400042
+    Right_Toe:
+    - 100044
+    - 400044
+    monsterMesh:
+    - 100046
+    - 400046
+    Right_Foot:
+    - 100048
+    - 400048
+    Right_Hip:
+    - 100050
+    - 400050
+    //RootNode:
+    - 100052
+    - 400052
+    - 11100000
+    Right_Ankle:
+    - 100054
+    - 400054
+    Right_Knee:
+    - 100056
+    - 400056
+    Right_Claw_Tip_01:
+    - 100058
+    - 400058
+    Right_Claw_Knuckle:
+    - 100060
+    - 400060
+    Right_Claw_Tip_02:
+    - 100062
+    - 400062
+    Left_Claw_Knuckle:
+    - 100064
+    - 400064
+    Left_Claw_Tip_01:
+    - 100066
+    - 400066
+    Left_Claw_Tip_02:
+    - 100068
+    - 400068
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: monsterMesh
+    7400000: Take 001 //// Wave_Test
+    7400002: wave //// Wave_Test

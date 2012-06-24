@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\MonsterHealth.cs">
+    <Files>
+      <File FileName="Assets\Code\MonsterHealth.cs" Line="19" Column="53" />
+      <File FileName="Assets\AstarPathfindingProject\ExampleScenes\ExampleScripts\TargetMover.cs" Line="80" Column="1" />
+      <File FileName="Assets\Code\NextLevel.cs" Line="42" Column="6" />
+      <File FileName="Assets\Code\Timer_Cycle.cs" Line="46" Column="44" />
+      <File FileName="Assets\Code\LevelIntro.cs" Line="9" Column="29" />
+      <File FileName="Assets\Code\ResourceManager.cs" Line="11" Column="11" />
+      <File FileName="Assets\Code\BuildingCollector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Attack_Building.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Collision_PtB.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\PathFind.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\PileOFish.cs" Line="12" Column="32" />
+      <File FileName="Assets\Code\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Radar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\PlantMonitor.cs" Line="21" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

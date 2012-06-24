@@ -1,0 +1,224 @@
+fileFormatVersion: 1
+guid: af18f1f9a4bde8246867a5dfc69b9e40
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    pileofFish:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    transform15:
+    - 100004
+    - 400004
+    polySurface17:
+    - 100006
+    - 400006
+    transform16:
+    - 100008
+    - 400008
+    polySurface16:
+    - 100010
+    - 400010
+    transform17:
+    - 100012
+    - 400012
+    polySurface15:
+    - 100014
+    - 400014
+    transform18:
+    - 100016
+    - 400016
+    polySurface14:
+    - 100018
+    - 400018
+    transform19:
+    - 100020
+    - 400020
+    polySurface13:
+    - 100022
+    - 400022
+    transform20:
+    - 100024
+    - 400024
+    polySurface12:
+    - 100026
+    - 400026
+    transform21:
+    - 100028
+    - 400028
+    polySurface11:
+    - 100030
+    - 400030
+    transform22:
+    - 100032
+    - 400032
+    polySurface10:
+    - 100034
+    - 400034
+    transform1:
+    - 100036
+    - 400036
+    pCylinder25:
+    - 100038
+    - 400038
+    transform2:
+    - 100040
+    - 400040
+    pCylinder24:
+    - 100042
+    - 400042
+    transform3:
+    - 100044
+    - 400044
+    pCylinder23:
+    - 100046
+    - 400046
+    transform4:
+    - 100048
+    - 400048
+    pCylinder22:
+    - 100050
+    - 400050
+    transform5:
+    - 100052
+    - 400052
+    pCylinder21:
+    - 100054
+    - 400054
+    transform6:
+    - 100056
+    - 400056
+    pCylinder20:
+    - 100058
+    - 400058
+    transform7:
+    - 100060
+    - 400060
+    pCylinder19:
+    - 100062
+    - 400062
+    transform8:
+    - 100064
+    - 400064
+    pCylinder18:
+    - 100066
+    - 400066
+    transform9:
+    - 100068
+    - 400068
+    pCylinder17:
+    - 100070
+    - 400070
+    transform10:
+    - 100072
+    - 400072
+    pCylinder16:
+    - 100074
+    - 400074
+    transform11:
+    - 100076
+    - 400076
+    pCylinder15:
+    - 100078
+    - 400078
+    transform12:
+    - 100080
+    - 400080
+    pCylinder14:
+    - 100082
+    - 400082
+    transform13:
+    - 100084
+    - 400084
+    pCylinder13:
+    - 100086
+    - 400086
+    transform14:
+    - 100088
+    - 400088
+    pCylinder12:
+    - 100090
+    - 400090
+    turret:
+    - 100092
+    - 400092
+    - 3300002
+    - 2300002
+    blockade:
+    - 100094
+    - 400094
+    - 3300004
+    - 2300004
+    pCylinder11:
+    - 100096
+    - 400096
+    radarDish:
+    - 100098
+    - 400098
+    - 3300006
+    - 2300006
+    Radar_Node:
+    - 100100
+    - 400100
+    radarBase:
+    - 100102
+    - 400102
+    - 3300008
+    - 2300008
+    Barrier:
+    - 100104
+    - 400104
+    - 3300010
+    - 2300010
+    Brick_Hi:
+    - 100106
+    - 400106
+    - 3300012
+    - 2300012
+    Brick_Wall:
+    - 100108
+    - 400108
+    - 3300014
+    - 2300014
+    Barrier_Hi:
+    - 100110
+    - 400110
+    - 3300016
+    - 2300016
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Barrier_Hi
+    4300002: Brick_Wall
+    4300004: Brick_Hi
+    4300006: Barrier
+    4300008: radarBase
+    4300010: radarDish
+    4300012: blockade
+    4300014: turret
+    4300016: pileofFish
+    7400000: Take 001 //// Weapons

@@ -1,0 +1,36 @@
+fileFormatVersion: 1
+guid: fa22c05cc21345b4b81d2cb2aa72c019
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 1
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+    clips:
+      idle:
+        firstFrame: 1
+        lastFrame: 60
+        loop: 1
+        wrapMode: 2
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: moneySign
+    7400000: Take 001 //// Sign
+    7400002: fade //// Sign
+    7400004: idle //// Sign

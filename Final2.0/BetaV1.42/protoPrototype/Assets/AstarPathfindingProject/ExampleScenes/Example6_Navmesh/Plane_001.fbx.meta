@@ -1,0 +1,55 @@
+fileFormatVersion: 1
+guid: 1bcae901d76334db6ab2adf87e1a6364
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    Camera:
+    - 100002
+    - 400002
+    Lamp:
+    - 100004
+    - 400004
+    Lamp_001:
+    - 100006
+    - 400006
+    Plane:
+    - 100008
+    - 400008
+    - 3300000
+    - 2300000
+    Plane_001:
+    - 100010
+    - 400010
+    - 3300002
+    - 2300002
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Plane_001
+    4300002: Plane
+    7400000: Default Take //// office_nav
+    7400002: Default Take //// Plane_001
+    7400004: Default Take //// Navmesh
